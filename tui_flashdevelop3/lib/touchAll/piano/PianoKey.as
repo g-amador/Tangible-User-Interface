@@ -1,3 +1,15 @@
+﻿/********************************************************/
+/*  Copyright © YoAmbulante (alex.nino@yoambulante.com) */
+/*                                                      */
+/*  You may modify or sell this code, you can do        */
+/*  whatever you want with it, I don't mind. Just don't */
+/*  forget to contribute with a beer thru the website.  */
+/*                                                      */
+/*  Visit http://www.yoambulante.com to clarify any     */
+/*  doubt about this code. Note that donators have      */
+/*  priority on information enquiries.                  */
+/*                                                      */
+/********************************************************/
 package touchAll.piano
 {
 	import flash.display.GradientType;
