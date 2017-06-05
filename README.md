@@ -58,22 +58,16 @@ TUI is intended to reduce conde redundancy in TUIO-as3 library and serve as a fr
 ## <a name="p_organization">Project Organization
 
 
-Project
- |
- +-- file 1
- |    
- +-- dir 2
- |  |  
- |  +-- file 2.1
- |    
- +-- dir 3
- |  |  
- |  +-- file 3.1
- |  +-- file 3.2
- |    
- +-- dir 4
- |  |  
- +  |-- dir 4.1
+.
+├── book.json
+├── README.md
+├── SUMMARY.md
+├── chapter-1/
+|   ├── README.md
+|   └── something.md
+└── chapter-2/
+    ├── README.md
+    └── something.md
 
 |-- master
     |-- TUIOas3lib vs TUI                               source code examples to illustrate code reduction achieved TUI comparatively to TUIOas3lib. 
