@@ -3,9 +3,7 @@ Tangible User Interface (TUI) - formerly touchAll - is an Flash as3 framework, t
 
 | TUIO-as3 library | Adobe AIR SDK | Adobe Flex SDK |
 |:---:|:---:|:---:|
-| [![TUIO-as3 library](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/tuioAS3.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/tuioAS3.png) 
-| [![Adobe AIR SDK](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/Adobe-Air.jpg)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/Adobe-Air.jpg) 
-| [![Adobe Flex SDK](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/Fx_small.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/Fx_small.png) | 
+| [![TUIO-as3 library](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/tuioAS3.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/tuioAS3.png) | [![Adobe AIR SDK](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/Adobe-Air.jpg)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/Adobe-Air.jpg) | [![Adobe Flex SDK](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/Fx_small.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/Fx_small.png) | 
 | https://goo.gl/FIukmz | https://goo.gl/FZi1e6 | https://goo.gl/d3Uw4N |
 
 
