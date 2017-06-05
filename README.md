@@ -26,9 +26,10 @@ https://goo.gl/rNfNCj
 ## <a name="tui_why">TUI Motivation 
 TUI is intended to reduce conde redundancy in TUIO-as3 library and serve as a framework that allows quick development of applications, with multi-touch, gestures, and fiducials, either through UDP, TCP, or Local Connection.
 
-| Example with TUIO-as3 library | Example with TUI |
+| Examples with TUI | Examples with TUIO-as3 library |
 |:---:|:---:|
-| [Example 1 (a)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/TUIOas3lib%20vs%20TUI/fbApplication.as) | [Example 1 (b)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/TUIOas3lib%20vs%20TUI/fbApplicationNoTUI.as) | 
+| [fbApplication (a)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/TUIOas3lib%20vs%20TUI/fbApplication.as) | [fbApplication (b)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/TUIOas3lib%20vs%20TUI/fbApplicationNoTUI.as) | 
+| [mtApplication (a)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/TUIOas3lib%20vs%20TUI/mtApplication.as) | [mtApplication (b)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/TUIOas3lib%20vs%20TUI/mtApplicationNoTUI.as) | 
 
 
 ## <a name="tui_architecture">TUI Architecture
