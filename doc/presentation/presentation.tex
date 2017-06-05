@@ -1,0 +1,108 @@
+\documentclass{beamer}
+\setbeamertemplate{navigation symbols}{}
+
+% Varia a cor da applet  (posso mudar aqui a cor)
+%\usetheme{Antibes}
+%\usetheme{Copenhagen}
+%\usetheme{Darmstadt}
+%\usetheme{JuanLesPins}
+%\usetheme{Hannover}
+\usetheme{PaloAlto}
+%\usecolortheme{beaver}
+\useoutertheme{infolines}
+\usefonttheme[onlylarge]{structurebold}
+
+\setbeamerfont{frametitle}{size=\normalsize,series=\bfseries}
+\setbeamertemplate{navigation symbols}{} 
+
+%definio dos packages
+\usepackage{color}
+\usepackage[english]{babel}
+\usepackage[latin1]{inputenc}
+\usepackage{graphics}
+\usepackage{graphicx}
+\usepackage{epsfig}
+\usepackage{hyperref}
+\usepackage{url}
+\usepackage{breakurl}
+\usepackage{enumerate,rotating}
+\usepackage{times}
+%\usepackage{multimedia}
+\usepackage{movie15}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{tikz}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{color}
+
+\newcommand\tab[1][1cm]{\hspace*{#1}}
+\definecolor{mycolor}{rgb}{0.2,0.5,0.9}
+
+\tikzstyle{block}=[draw opacity=0.7,line width=1.4cm]
+
+%configuração da página principal(titlepage)
+%\title{TouchAll}
+\title[tui]{tui (formerly TouchAll)}
+\subtitle{A Multi-Touch, Gestures, and fiducials Framework for ActionScript 3.0}
+\author[G. Amador\\ \& \\A. Gomes]{
+\texorpdfstring{
+	\begin{columns}
+		\column{.45\linewidth}
+		\centering
+		G. Amador\\
+		\href{mailto:g.n.p.amador@gmail.com}{g.n.p.amador@gmail.com}
+		\column{.45\linewidth}
+		\centering
+		A. Gomes\\
+		\href{mailto:agomes@di.ubi.pt}{agomes@di.ubi.pt}
+	\end{columns}
+}\\
+\vspace{1cm}
+Videos: \url{https://goo.gl/eZ90NI}\\
+Source code: \url{https://goo.gl/Ue2ICZ}
+}
+%\addtobeamertemplate{title page}{}{
+%\begin{center}
+%$\;$\\ Videos: \url{https://goo.gl/eZ90NI}
+%$\;$\\ Source code: \url{https://goo.gl/Ue2ICZ}\\
+%\end{center}}
+\date{\today}
+
+\begin{document}
+
+%\AtBeginSection[]
+%{
+%	\begin{frame}[allowframebreaks]
+%	\frametitle{Tabela de Conteï¿½dos}
+%	\tableofcontents[currentsection,hideothersubsections]
+%	\end{frame}
+%}
+%
+%\AtBeginSubsection[]
+%{
+%	\begin{frame}[allowframebreaks]
+%	\frametitle{Tabela de Conteï¿½dos}
+%	\tableofcontents[currentsubsection,hideothersubsections]
+%	\end{frame}
+%}
+
+%criação da frame da titlepage
+\begin{frame}[allowframebreaks]
+	\vspace{-0.6cm}
+	\titlepage
+\end{frame}
+
+%frame da tabela de conteï¿½dos
+%tabela de conteudos
+\begin{frame}[allowframebreaks]
+	%\frametitle{Tabela de Conteï¿½dos}
+	\tableofcontents%[currentsection,hideallsubsections,hideothersubsections]
+\end{frame}
+
+\include{intro} %5
+\include{touchTable} %1 
+\include{touchAll} %3 
+%\include{UDPvsTCP} %1
+\include{conclus} %3 (i.e., 2) 
+\end{document}
