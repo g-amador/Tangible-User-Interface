@@ -1,7 +1,7 @@
 # Tangible-User-Interface
 Tangible User Interface (TUI) - formerly touchAll - is an Flash as3 framework, that supports all-in-one multi-touch, gestures, and fiducials, either through UDP, TCP, or Flash Local Connection, built on top of:
 
-[![TUIO-as3 library](https://goo.gl/FIukmz)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/tuioAS3.png)
+[![TUIO-as3 library](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/tuioAS3.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/tuioAS3.png) https://goo.gl/FIukmz
 [![Adobe AIR SDK](https://goo.gl/FZi1e6)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/Adobe-Air.jpg)
 [![Adobe Flex SDK](https://goo.gl/d3Uw4N)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/Fx_small.png)
 
