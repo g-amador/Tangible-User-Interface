@@ -51,6 +51,12 @@ TUI is intended to reduce conde redundancy in TUIO-as3 library and serve as a fr
 
 ## <a name="tui_demos">TUI demos
 
+| Demos | Videos of Demos Running |
+|:---:|:---:|
+| [![Multimedia App](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/image_app.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/image_app.png) | https://goo.gl/qgVVQA |
+| [![Fiducials App](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/fiducials.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/fiducials.png) | https://goo.gl/qgVVQA |
+| Cube App | https://goo.gl/qgVVQA |
+
 
 [Back to Table of contents](#toc)
 
@@ -58,23 +64,13 @@ TUI is intended to reduce conde redundancy in TUIO-as3 library and serve as a fr
 ## <a name="p_organization">Project Organization
 
     .
-    ├── build                   # Compiled files (alternatively `dist`)
-    ├── docs                    # Documentation files (alternatively `doc`)
-    ├── src                     # Source files (alternatively `lib` or `app`)
-    ├── test                    # Automated tests (alternatively `spec` or `tests`)
-    ├── tools                   # Tools and utilities
+    ├── TUIOas3lib vs TUI                               # Source code examples to illustrate code reduction achieved TUI comparatively to TUIOas3lib. 
+    ├── docs/presentation                               # Documentation files
+    ├── tui_flashdevelop3                               # Source files and project for FlashDevelop 3
+    ├── tui_flashdevelop4_2_1__tuioAS3_0_8__AIR2_6      # Source files and project for FlashDevelop 4.2.1, TUIO AS3 lib 0.8, and Adobe AIR 2.6 
     ├── LICENSE
     └── README.md
-
-|-- master
-    |-- TUIOas3lib vs TUI                               source code examples to illustrate code reduction achieved TUI comparatively to TUIOas3lib. 
-    |-- doc/presentation
-    |-- tui_flashdevelop3
-    |-- tui_flashdevelop4_2_1__tuioAS3_0_8__AIR2_6
-    |-- tui_flashdevelop4_2_1__tuioAS3_0_8__AIR2_6
-    |-- LICENCE.txt
-    |-- README.md
-
+                            
 
 [Back to Table of contents](#toc)
 
