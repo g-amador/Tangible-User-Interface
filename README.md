@@ -15,7 +15,7 @@ https://goo.gl/Kyn7Ee
 https://goo.gl/rNfNCj
 
 
-## Table of contents
+## <a name="toc">Table of contents 
 
 * [TUI Motivation](#tui_why)
 * [TUI Architecture](#tui_architecture)
@@ -37,10 +37,19 @@ TUI is intended to reduce conde redundancy in TUIO-as3 library and serve as a fr
 | [mtApplication (a)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/TUIOas3lib%20vs%20TUI/mtApplication.as) | [mtApplication (b)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/TUIOas3lib%20vs%20TUI/mtApplicationNoTUI.as) | 
 
 
+[Back to Table of contents](#toc)
+
+
 ## <a name="tui_architecture">TUI Architecture
 
 
+[Back to Table of contents](#toc)
+
+
 ## <a name="tui_demos">TUI demos
+
+
+[Back to Table of contents](#toc)
 
 
 ## <a name="p_organization">Project Organization
@@ -55,7 +64,7 @@ TUI is intended to reduce conde redundancy in TUIO-as3 library and serve as a fr
     |-- README.md
 
 
-## <a name="p_organization">Project Organization
+[Back to Table of contents](#toc)
 
 
 ## <a name="contact">Contact
@@ -67,3 +76,5 @@ Please inform me if you either extend TUI, create more apps with TUI, or port it
 If you have any questions, feel free to e-mail me at [gmail](mailto://g.n.p.amador@gmail.com) and ask away.
 
 Good luck!
+
+[Back to Table of contents](#toc)
