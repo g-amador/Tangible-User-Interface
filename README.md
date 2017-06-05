@@ -53,7 +53,7 @@ https://goo.gl/XtSJgB
 
 ## <a name="tui_demos">TUI demos
 
-| Demos | Videos of Demos Running |
+| Demos | Videos |
 |:---:|:---:|
 | [![Multimedia App](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/docs/presentation/images/image_app.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/docs/presentation/images/image_app.png) | https://goo.gl/Vxryab |
 | [![Fiducials App](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/docs/presentation/images/fiducials.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/docs/presentation/images/fiducials.png) | https://goo.gl/QNydTF https://goo.gl/EfiI5x |
