@@ -44,7 +44,7 @@ TUI is intended to reduce conde redundancy in TUIO-as3 library and serve as a fr
 
 | TUI, TUIO AS3, and Flex and Air SDKs layers diagram | TUI and TUIO AS3 modules |
 |:---:|:---:|
-| [![TUI, TUIO AS3, and Flex and Air SDKs layers diagram](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/TUIOas3lib%20vs%20TUI/API&tuioas3lib&skds.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/TUIOas3lib%20vs%20TUI/API&tuioas3lib&skds.png) | [![TUI and TUIO AS3 modules](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/TUIOas3lib%20vs%20TUI/as3LibDiagram.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/TUIOas3lib%20vs%20TUI/as3LibDiagram.png) | 
+| [![TUI, TUIO AS3, and Flex and Air SDKs layers diagram](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/API&tuioas3lib&skds.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/API&tuioas3lib&skds.png) | [![TUI and TUIO AS3 modules](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/as3LibDiagram.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/imagesI/as3LibDiagram.png) | 
 
 [Back to Table of contents](#toc)
 
