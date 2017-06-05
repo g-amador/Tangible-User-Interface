@@ -6,10 +6,6 @@ Tangible User Interface (TUI) - formerly touchAll - is an Flash as3 framework, t
 | [![TUIO-as3 library](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/tuioAS3.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/tuioAS3.png) | [![Adobe AIR SDK](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/Adobe-Air.jpg)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/Adobe-Air.jpg) | [![Adobe Flex SDK](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/Fx_small.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/Fx_small.png) | 
 | https://goo.gl/FIukmz | https://goo.gl/FZi1e6 | https://goo.gl/d3Uw4N |
 
-
-
-TUI is intended to reduce conde redundancy in TUIO-as3 library and serve as a framework that allows quick development of applications, with multi-touch, gestures, and fiducials, either through UDP, TCP, or Local Connection.
-
 TUI was first presented as a MUE 2011 conference article, available for download at:
 
 https://goo.gl/PyN6Cf
@@ -21,11 +17,38 @@ https://goo.gl/rNfNCj
 
 ## Table of contents
 
-* [Project Organization](#p_organization)
+* [TUI Motivation](#tui_why)
 * [TUI Architecture](#tui_architecture)
+* [TUI demos](#tui_demos)
+* [Project Organization](#p_organization)
 * [Contact](#contact)
 
+## <a name="tui_why">TUI Motivation 
+TUI is intended to reduce conde redundancy in TUIO-as3 library and serve as a framework that allows quick development of applications, with multi-touch, gestures, and fiducials, either through UDP, TCP, or Local Connection.
+| Example with TUIO-as3 library | Example with TUI |
+|:---:|:---:|
+| [![Example 1 (a)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/TUIOas3lib%20vs%20TUI/fbApplication.as)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/TUIOas3lib%20vs%20TUI/fbApplication.as) | [![Example 1 (b)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/TUIOas3lib%20vs%20TUI/fbApplicationNoTUI.as)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/TUIOas3lib%20vs%20TUI/fbApplicationNoTUI.as) | 
 
+
+## <a name="tui_architecture">TUI Architecture
+
+
+## <a name="tui_demos">TUI demos
+
+
+## <a name="p_organization">Project Organization
+
+|-- master
+    |-- TUIOas3lib vs TUI                               source code examples to illustrate code reduction achieved TUI comparatively to TUIOas3lib. 
+    |-- doc/presentation
+    |-- tui_flashdevelop3
+    |-- tui_flashdevelop4_2_1__tuioAS3_0_8__AIR2_6
+    |-- tui_flashdevelop4_2_1__tuioAS3_0_8__AIR2_6
+    |-- LICENCE.txt
+    |-- README.md
+
+
+## <a name="p_organization">Project Organization
 
 
 ## <a name="contact">Contact
