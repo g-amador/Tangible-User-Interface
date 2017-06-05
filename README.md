@@ -59,15 +59,13 @@ TUI is intended to reduce conde redundancy in TUIO-as3 library and serve as a fr
 
 
 .
-├── book.json
-├── README.md
-├── SUMMARY.md
-├── chapter-1/
-|   ├── README.md
-|   └── something.md
-└── chapter-2/
-    ├── README.md
-    └── something.md
+    ├── build                   # Compiled files (alternatively `dist`)
+    ├── docs                    # Documentation files (alternatively `doc`)
+    ├── src                     # Source files (alternatively `lib` or `app`)
+    ├── test                    # Automated tests (alternatively `spec` or `tests`)
+    ├── tools                   # Tools and utilities
+    ├── LICENSE
+    └── README.md
 
 |-- master
     |-- TUIOas3lib vs TUI                               source code examples to illustrate code reduction achieved TUI comparatively to TUIOas3lib. 
