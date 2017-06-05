@@ -28,7 +28,7 @@ TUI is intended to reduce conde redundancy in TUIO-as3 library and serve as a fr
 
 | With TUI | With TUIO-as3 library |
 |:---:|:---:|
-| [![New code](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/new_code.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/new_code.png) | [![Old code (part 1 of 2)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/old_part1.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/old_part1.png) [![Old code (part 2 of 2)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/old_part2.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/old_part2.png) |
+| [![New code](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/new_code.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/new_code.png) | [![Old code (part 1 of 2)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/old_part1.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/old_part1.png)[![Old code (part 2 of 2)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/old_part2.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/old_part2.png) |
 
 
 | Examples with TUI | Examples with TUIO-as3 library |
