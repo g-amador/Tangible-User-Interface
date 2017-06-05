@@ -3,7 +3,7 @@ Tangible User Interface (TUI) - formerly touchAll - is an Flash as3 framework, t
 
 | TUIO-as3 library | Adobe AIR SDK | Adobe Flex SDK |
 |:---:|:---:|:---:|
-| [![TUIO-as3 library](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/tuioAS3.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/tuioAS3.png) | [![Adobe AIR SDK](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/Adobe-Air.jpg)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/Adobe-Air.jpg) | [![Adobe Flex SDK](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/Fx_small.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/Fx_small.png) | 
+| [![TUIO-as3 library](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/docs/presentation/images/tuioAS3.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/docs/presentation/images/tuioAS3.png) | [![Adobe AIR SDK](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/docs/presentation/images/Adobe-Air.jpg)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/docs/presentation/images/Adobe-Air.jpg) | [![Adobe Flex SDK](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/docs/presentation/images/Fx_small.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/docs/presentation/images/Fx_small.png) | 
 | https://goo.gl/FIukmz | https://goo.gl/FZi1e6 | https://goo.gl/d3Uw4N |
 
 TUI was first presented as a MUE 2011 conference article, available for download at:
@@ -28,7 +28,7 @@ TUI is intended to reduce conde redundancy in TUIO-as3 library and serve as a fr
 
 | With TUI | With TUIO-as3 library |
 |:---:|:---:|
-| [![New code](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/new_code.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/new_code.png) | [![Old code (part 1 of 2)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/old_part1.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/old_part1.png)[![Old code (part 2 of 2)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/old_part2.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/old_part2.png) |
+| [![New code](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/docs/presentation/images/new_code.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/docs/presentation/images/new_code.png) | [![Old code (part 1 of 2)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/docs/presentation/images/old_part1.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/docs/presentation/images/old_part1.png)[![Old code (part 2 of 2)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/docs/presentation/images/old_part2.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/docs/presentation/images/old_part2.png) |
 
 
 | Examples with TUI | Examples with TUIO-as3 library |
@@ -44,7 +44,7 @@ TUI is intended to reduce conde redundancy in TUIO-as3 library and serve as a fr
 
 | Layers diagram | Modules |
 |:---:|:---:|
-| [![Layers diagram](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/API&tuioas3lib&skds.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/API&tuioas3lib&skds.png) | [![TUI and TUIO AS3 modules](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/as3LibDiagram.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/imagesI/as3LibDiagram.png) | 
+| [![Layers diagram](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/docs/presentation/images/API&tuioas3lib&skds.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/docs/presentation/images/API&tuioas3lib&skds.png) | [![TUI and TUIO AS3 modules](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/docs/presentation/images/as3LibDiagram.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/docs/presentation/imagesI/as3LibDiagram.png) | 
 
 [Back to Table of contents](#toc)
 
@@ -53,8 +53,8 @@ TUI is intended to reduce conde redundancy in TUIO-as3 library and serve as a fr
 
 | Demos | Videos of Demos Running |
 |:---:|:---:|
-| [![Multimedia App](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/image_app.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/image_app.png) | https://goo.gl/qgVVQA |
-| [![Fiducials App](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/fiducials.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/fiducials.png) | https://goo.gl/qgVVQA |
+| [![Multimedia App](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/docs/presentation/images/image_app.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/docs/presentation/images/image_app.png) | https://goo.gl/qgVVQA |
+| [![Fiducials App](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/docs/presentation/images/fiducials.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/docs/presentation/images/fiducials.png) | https://goo.gl/qgVVQA |
 | Cube App | https://goo.gl/qgVVQA |
 
 
