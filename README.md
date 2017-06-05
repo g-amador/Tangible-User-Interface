@@ -57,8 +57,7 @@ TUI is intended to reduce conde redundancy in TUIO-as3 library and serve as a fr
 
 ## <a name="p_organization">Project Organization
 
-
-.
+    .
     ├── build                   # Compiled files (alternatively `dist`)
     ├── docs                    # Documentation files (alternatively `doc`)
     ├── src                     # Source files (alternatively `lib` or `app`)
