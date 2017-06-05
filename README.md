@@ -26,6 +26,12 @@ https://goo.gl/rNfNCj
 ## <a name="tui_why">TUI Motivation 
 TUI is intended to reduce conde redundancy in TUIO-as3 library and serve as a framework that allows quick development of applications, with multi-touch, gestures, and fiducials, either through UDP, TCP, or Local Connection.
 
+| With TUI | With TUIO-as3 library |
+|:---:|:---:|
+| [![New code](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/new_code.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/new_code.png) | [![Old code](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/old_part1.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/old_part1.png) |
+|  | [![Old code](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/old_part2.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/doc/presentation/images/old_part2.png) |
+
+
 | Examples with TUI | Examples with TUIO-as3 library |
 |:---:|:---:|
 | [fbApplication (a)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/TUIOas3lib%20vs%20TUI/fbApplication.as) | [fbApplication (b)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/TUIOas3lib%20vs%20TUI/fbApplicationNoTUI.as) | 
