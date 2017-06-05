@@ -36,6 +36,8 @@ TUI is intended to reduce conde redundancy in TUIO-as3 library and serve as a fr
 | [fbApplication (a)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/TUIOas3lib%20vs%20TUI/fbApplication.as) | [fbApplication (b)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/TUIOas3lib%20vs%20TUI/fbApplicationNoTUI.as) | 
 | [mtApplication (a)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/TUIOas3lib%20vs%20TUI/mtApplication.as) | [mtApplication (b)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/TUIOas3lib%20vs%20TUI/mtApplicationNoTUI.as) | 
 
+Video demonstrating how to create your first TUI app: 
+https://goo.gl/XtSJgB
 
 [Back to Table of contents](#toc)
 
@@ -53,10 +55,9 @@ TUI is intended to reduce conde redundancy in TUIO-as3 library and serve as a fr
 
 | Demos | Videos of Demos Running |
 |:---:|:---:|
-| [![Multimedia App](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/docs/presentation/images/image_app.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/docs/presentation/images/image_app.png) | https://goo.gl/qgVVQA |
-| [![Fiducials App](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/docs/presentation/images/fiducials.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/docs/presentation/images/fiducials.png) | https://goo.gl/qgVVQA |
-| Cube App | https://goo.gl/qgVVQA |
-
+| [![Multimedia App](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/docs/presentation/images/image_app.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/docs/presentation/images/image_app.png) | https://goo.gl/Vxryab |
+| [![Fiducials App](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/docs/presentation/images/fiducials.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/docs/presentation/images/fiducials.png) | https://goo.gl/QNydTF https://goo.gl/EfiI5x |
+| [![Cube App](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/docs/presentation/images/cube_app.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/docs/presentation/images/cube_app.png) | https://goo.gl/jwfrjb |
 
 [Back to Table of contents](#toc)
 
@@ -69,8 +70,7 @@ TUI is intended to reduce conde redundancy in TUIO-as3 library and serve as a fr
     ├── tui_flashdevelop3                               # Source files and project for FlashDevelop 3
     ├── tui_flashdevelop4_2_1__tuioAS3_0_8__AIR2_6      # Source files and project for FlashDevelop 4.2.1, TUIO AS3 lib 0.8, and Adobe AIR 2.6 
     ├── LICENSE
-    └── README.md
-                            
+    └── README.md                          
 
 [Back to Table of contents](#toc)
 
