@@ -79,7 +79,7 @@ https://goo.gl/XtSJgB
 
 You are free to use and modify TUI as you see fit: to create your own multitouch apps, to extend it, and to port it to another programming language. 
 You cannot take the credit for making TUI/TouchAll! 
-Please inform me if you either extend TUI, create more apps with TUI, or port it to another programming languange.
+Please inform me if you either extend TUI, create more apps with TUI, or port it to another programming language.
 
 If you have any questions, feel free to e-mail me at [gmail](mailto://g.n.p.amador@gmail.com) and ask away.
 
