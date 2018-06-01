@@ -36,8 +36,8 @@ TUI is intended to reduce conde redundancy in TUIO-as3 library and serve as a fr
 | [fbApplication (a)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/TUIOas3lib%20vs%20TUI/fbApplication.as) | [fbApplication (b)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/TUIOas3lib%20vs%20TUI/fbApplicationNoTUI.as) | 
 | [mtApplication (a)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/TUIOas3lib%20vs%20TUI/mtApplication.as) | [mtApplication (b)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/TUIOas3lib%20vs%20TUI/mtApplicationNoTUI.as) | 
 
-Video demonstrating how to create your first TUI app: 
-https://goo.gl/XtSJgB
+Video demonstrating how to create your first TUI app:
+https://youtu.be/dFrKurULcD0
 
 [Back to Table of contents](#toc)
 
@@ -55,9 +55,9 @@ https://goo.gl/XtSJgB
 
 | Demos | Videos |
 |:---:|:---:|
-| [![Multimedia App](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/docs/presentation/images/image_app.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/docs/presentation/images/image_app.png) | https://goo.gl/Vxryab |
-| [![Fiducials App](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/docs/presentation/images/fiducials.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/docs/presentation/images/fiducials.png) | https://goo.gl/QNydTF https://goo.gl/EfiI5x |
-| [![Cube App](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/docs/presentation/images/cube_app.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/docs/presentation/images/cube_app.png) | https://goo.gl/jwfrjb |
+| [![Multimedia App](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/docs/presentation/images/image_app.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/docs/presentation/images/image_app.png) | https://youtu.be/kwliB1sQTI4 |
+| [![Fiducials App](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/docs/presentation/images/fiducials.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/docs/presentation/images/fiducials.png) | https://youtu.be/4KSEvKbLawE https://youtu.be/n_ImgmvRGw4 |
+| [![Cube App](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/docs/presentation/images/cube_app.png)](https://raw.githubusercontent.com/g-amador/Tangible-User-Interface/master/docs/presentation/images/cube_app.png) | https://youtu.be/PHb26QuH-Tg |
 
 [Back to Table of contents](#toc)
 
